@@ -1,7 +1,7 @@
 {
-  "project_slug": "commerce-catalog-options",
-  "name": "commerce-catalog-options",
-  "entry_type": "package",
-  "scope": "package:commerce-catalog-options",
-  "package_name": "commerce-catalog-options"
+	"project_slug": "commerce-catalog-options",
+	"name": "commerce-catalog-options",
+	"entry_type": "package",
+	"scope": "package:commerce-catalog-options",
+	"package_name": "commerce-catalog-options"
 }
